@@ -1,0 +1,15 @@
+"D:\IAR for arm\arm\bin\armproc.dll" 
+
+"D:\IAR for arm\arm\bin\armxds100.dll" 
+
+"C:\ti\simplelink\ble_cc26xx_2_01_00_44423_iBeacon\Projects\ble\SimpleBLECentral\CC26xx\IAR\Application\CC2640\FlashROM\Exe\SimpleBLECentralAppFlashROM.out" 
+
+--plugin "D:\IAR for arm\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR for arm\arm\config\debugger\TexasInstruments\CC26xx.dmac" 
+
+--flash_loader "D:\IAR for arm\arm\config\flashloader\TexasInstruments\FlashCC26xxF128RAM20.board" 
+
+
+
+

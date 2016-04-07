@@ -1,0 +1,21 @@
+"--endian=little" 
+
+"--cpu=Cortex-M3" 
+
+"--drv_communication=USB:#select" 
+
+"--fpu=None" 
+
+"-p" 
+
+"D:\IAR for arm\arm\CONFIG\debugger\TexasInstruments\CC2640F128.ddf" 
+
+"--semihosting=none" 
+
+"--device=CC2640F128" 
+
+"--xds_board_file=D:\IAR for arm\arm\config\debugger\TexasInstruments\xds\CC2650_XDS100v3c2.dat" 
+
+
+
+
